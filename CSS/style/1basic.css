@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+p {
+    color: blueviolet;
+}
+#head-1 {
+    color: rebeccapurple;
+}
+.para-1, .head-2 {
+    color: green;
+}
+.div-pera p {
+    color: orange;
+}
